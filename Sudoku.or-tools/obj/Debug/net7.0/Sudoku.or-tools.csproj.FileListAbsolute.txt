@@ -1,0 +1,15 @@
+/Users/billonvalentin/Projects/ECE-2023-Ing4-Finance-IA1-Gr06/Sudoku.or-tools/bin/Debug/net7.0/Sudoku.or-tools.deps.json
+/Users/billonvalentin/Projects/ECE-2023-Ing4-Finance-IA1-Gr06/Sudoku.or-tools/bin/Debug/net7.0/Sudoku.or-tools.dll
+/Users/billonvalentin/Projects/ECE-2023-Ing4-Finance-IA1-Gr06/Sudoku.or-tools/bin/Debug/net7.0/Sudoku.or-tools.pdb
+/Users/billonvalentin/Projects/ECE-2023-Ing4-Finance-IA1-Gr06/Sudoku.or-tools/bin/Debug/net7.0/Sudoku.Shared.dll
+/Users/billonvalentin/Projects/ECE-2023-Ing4-Finance-IA1-Gr06/Sudoku.or-tools/bin/Debug/net7.0/Sudoku.Shared.pdb
+/Users/billonvalentin/Projects/ECE-2023-Ing4-Finance-IA1-Gr06/Sudoku.or-tools/obj/Debug/net7.0/Sudoku.or-tools.csproj.AssemblyReference.cache
+/Users/billonvalentin/Projects/ECE-2023-Ing4-Finance-IA1-Gr06/Sudoku.or-tools/obj/Debug/net7.0/Sudoku.or-tools.GeneratedMSBuildEditorConfig.editorconfig
+/Users/billonvalentin/Projects/ECE-2023-Ing4-Finance-IA1-Gr06/Sudoku.or-tools/obj/Debug/net7.0/Sudoku.or-tools.AssemblyInfoInputs.cache
+/Users/billonvalentin/Projects/ECE-2023-Ing4-Finance-IA1-Gr06/Sudoku.or-tools/obj/Debug/net7.0/Sudoku.or-tools.AssemblyInfo.cs
+/Users/billonvalentin/Projects/ECE-2023-Ing4-Finance-IA1-Gr06/Sudoku.or-tools/obj/Debug/net7.0/Sudoku.or-tools.csproj.CoreCompileInputs.cache
+/Users/billonvalentin/Projects/ECE-2023-Ing4-Finance-IA1-Gr06/Sudoku.or-tools/obj/Debug/net7.0/Sudoku.or-tools.csproj.CopyComplete
+/Users/billonvalentin/Projects/ECE-2023-Ing4-Finance-IA1-Gr06/Sudoku.or-tools/obj/Debug/net7.0/Sudoku.or-tools.dll
+/Users/billonvalentin/Projects/ECE-2023-Ing4-Finance-IA1-Gr06/Sudoku.or-tools/obj/Debug/net7.0/refint/Sudoku.or-tools.dll
+/Users/billonvalentin/Projects/ECE-2023-Ing4-Finance-IA1-Gr06/Sudoku.or-tools/obj/Debug/net7.0/Sudoku.or-tools.pdb
+/Users/billonvalentin/Projects/ECE-2023-Ing4-Finance-IA1-Gr06/Sudoku.or-tools/obj/Debug/net7.0/ref/Sudoku.or-tools.dll

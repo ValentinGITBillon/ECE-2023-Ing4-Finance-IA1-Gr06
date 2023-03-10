@@ -1,0 +1,138 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/billonvalentin/Projects/ECE-2023-Ing4-Finance-IA1-Gr06/Sudoku.or-tools/Sudoku.or-tools.csproj": {}
+  },
+  "projects": {
+    "/Users/billonvalentin/Projects/ECE-2023-Ing4-Finance-IA1-Gr06/Sudoku.or-tools/Sudoku.or-tools.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/billonvalentin/Projects/ECE-2023-Ing4-Finance-IA1-Gr06/Sudoku.or-tools/Sudoku.or-tools.csproj",
+        "projectName": "Sudoku.or-tools",
+        "projectPath": "/Users/billonvalentin/Projects/ECE-2023-Ing4-Finance-IA1-Gr06/Sudoku.or-tools/Sudoku.or-tools.csproj",
+        "packagesPath": "/Users/billonvalentin/.nuget/packages/",
+        "outputPath": "/Users/billonvalentin/Projects/ECE-2023-Ing4-Finance-IA1-Gr06/Sudoku.or-tools/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/billonvalentin/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {
+              "/Users/billonvalentin/Projects/ECE-2023-Ing4-Finance-IA1-Gr06/Sudoku.Shared/Sudoku.Shared.csproj": {
+                "projectPath": "/Users/billonvalentin/Projects/ECE-2023-Ing4-Finance-IA1-Gr06/Sudoku.Shared/Sudoku.Shared.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "dependencies": {
+            "Google.OrTools": {
+              "target": "Package",
+              "version": "[9.5.2237, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.101/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/billonvalentin/Projects/ECE-2023-Ing4-Finance-IA1-Gr06/Sudoku.Shared/Sudoku.Shared.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/billonvalentin/Projects/ECE-2023-Ing4-Finance-IA1-Gr06/Sudoku.Shared/Sudoku.Shared.csproj",
+        "projectName": "Sudoku.Shared",
+        "projectPath": "/Users/billonvalentin/Projects/ECE-2023-Ing4-Finance-IA1-Gr06/Sudoku.Shared/Sudoku.Shared.csproj",
+        "packagesPath": "/Users/billonvalentin/.nuget/packages/",
+        "outputPath": "/Users/billonvalentin/Projects/ECE-2023-Ing4-Finance-IA1-Gr06/Sudoku.Shared/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/billonvalentin/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "dependencies": {
+            "Python.Deployment": {
+              "target": "Package",
+              "version": "[1.3.0, )"
+            },
+            "System.Runtime.Loader": {
+              "target": "Package",
+              "version": "[4.3.0, )"
+            },
+            "pythonnet": {
+              "target": "Package",
+              "version": "[3.0.0-preview2022-01-03, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.101/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
